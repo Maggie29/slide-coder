@@ -1,18 +1,35 @@
+body{
+  text-align: center;
+  background: #f2b707;
+  padding-top: 80px;
+  font-family: "garamond", serif;
+  font-size: 25px;
+}
+
 h1{
   color: #232222;
-  text-align: center;
+}
 
-}
 div{
-  text-align: center;
 }
+
 #usuario{
 color:white
 }
+
 button{
-  align: center;
+  width: 200px;
+  height: 45px;
+  border-radius: 6px;
+  font-size: 30px;
   color: #f2b707
+
 }
-body{
-  background: #f2b707
+input{
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+}
+img{
+
 }
